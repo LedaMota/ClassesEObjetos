@@ -1,0 +1,2 @@
+C:\WorkspaceLediane\Classes e objetos\obj\Debug\Classes e objetos.csproj.AssemblyReference.cache
+C:\WorkspaceLediane\Classes e objetos\obj\Debug\Classes e objetos.csproj.CoreCompileInputs.cache
